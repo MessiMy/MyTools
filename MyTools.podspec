@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'MessiMy' => '18583932532@163.com'}
-  s.source           = { :git => 'https://github.com/MessiMy/MyTools.git', :tag => s.version, :commit => 'c349dde9474772d2b9d4e758187e07ee0b399e0f' }
+  s.source           = { :git => 'https://github.com/MessiMy/MyTools.git', :tag => s.version, :commit => '549e453dea3d2606b4409bb3af0e9c6539e5ecc0' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
