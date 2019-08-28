@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MyTools'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'MyTools.'
 
 # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'MessiMy' => '18583932532@163.com'}
-  s.source           = { :git => 'https://github.com/MessiMy/MyTools.git', :tag => s.version, :commit => '549e453dea3d2606b4409bb3af0e9c6539e5ecc0' }
+  s.source           = { :git => 'https://github.com/MessiMy/MyTools.git', :tag => s.version, :commit => 'fafe56de2d5d3a883f4545699df86ea621845216' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
